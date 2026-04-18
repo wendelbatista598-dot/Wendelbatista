@@ -1,7 +1,7 @@
 
   # Wendel Batista
 
-  This is a code bundle for Wendel Batista. The original project is available at https://www.figma.com/design/nLJACtUHpCrVCXLnHvvdti/Wendel-Batista.
+  This is a code bundle for Wendel Batista.
 
   ## Running the code
 
